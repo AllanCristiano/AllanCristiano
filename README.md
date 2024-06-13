@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Allan Cristiano and i'm a Java Developer, from RJ, Brazil 🇧🇷
+- My name is Allan Cristiano and i'm a Java Developer, from SE, Brazil 🇧🇷
 
 <h2 align="left">My techs</h2>
 
